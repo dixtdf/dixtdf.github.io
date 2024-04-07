@@ -1,0 +1,32 @@
+Package: com.yourcompany.gimi
+Version: 0.0.1-34+debug
+Architecture: iphoneos-arm64
+Maintainer: mac
+Installed-Size: 216
+Depends: firmware (>= 16.0)
+Filename: debs/com.yourcompany.gimi_0.0.1-34+debug_iphoneos-arm64 copy.deb
+Size: 6520
+MD5sum: 9e0ed11c2c9ff2807597545363df3b23
+SHA1: 116bb6decf86a8379b5ce217c97611c776fdac08
+SHA256: 5106be9787d9de9664d22be3461e4e6dc26c4199b40807515acc266d3d526289
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: mac
+Name: gimi
+
+Package: com.yourcompany.gimi
+Version: 0.0.1-34+debug
+Architecture: iphoneos-arm64
+Maintainer: mac
+Installed-Size: 216
+Depends: firmware (>= 16.0)
+Filename: debs/com.yourcompany.gimi_0.0.1-34+debug_iphoneos-arm64.deb
+Size: 6520
+MD5sum: 9e0ed11c2c9ff2807597545363df3b23
+SHA1: 116bb6decf86a8379b5ce217c97611c776fdac08
+SHA256: 5106be9787d9de9664d22be3461e4e6dc26c4199b40807515acc266d3d526289
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: mac
+Name: gimi
+

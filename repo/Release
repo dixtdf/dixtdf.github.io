@@ -1,0 +1,8 @@
+Origin: dixtdf Repo
+Label: dixtdf Repo
+Suite: stable
+Version: 1.1
+Codename: dixtdf
+Architectures: iphoneos-arm64e
+Components: main
+Description: 私有源
