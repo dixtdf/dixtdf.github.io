@@ -30,3 +30,19 @@ Description: Safari Auto Close! 任何问题请反馈到(你可以反馈但是�
 Author: dixtdf
 Name: Safari Auto Close
 
+Package: io.github.dixtdf.safari.auto.close
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: dixtdf
+Installed-Size: 368
+Depends: firmware (>= 16.0)
+Filename: debs/io.github.dixtdf.safari.auto.close_0.0.2_iphoneos-arm64.deb
+Size: 15822
+MD5sum: bc809bac8d1be4f2c787b1b1a9ab3f76
+SHA1: bc11b12de399b0667292c601d066295c2041ab96
+SHA256: cbd98f2f235deb33647553ec7de080aec2c815cd4ae35570f40e345894c43420
+Section: Tweaks
+Description: Safari Auto Close! 任何问题请反馈到(你可以反馈但是我不一定会给你解决😂):https://github.com/dixtdf/dixtdf.github.io/issues
+Author: dixtdf
+Name: Safari Auto Close
+
