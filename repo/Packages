@@ -47,32 +47,16 @@ Author: dixtdf
 Name: Safari Auto Close
 
 Package: io.github.dixtdf.shortcut
-Version: 0.0.3
+Version: 0.0.6
 Architecture: iphoneos-arm64
 Maintainer: dixtdf
 Installed-Size: 1432
 Depends: mobilesubstrate
-Filename: debs/io.github.dixtdf.shortcut_0.0.3_iphoneos-arm64.deb
-Size: 70380
-MD5sum: 095cc98786b9f428a96f8a89c53dd45f
-SHA1: e16cfb4eb020fd19112fd850a8a71c9eb1056116
-SHA256: b59d5dc1205990a7e66941e5fa6c8cbbd76c104e52d209f936dd78bd07f32a0c
-Section: Control Center (Modules)
-Description: CCSupportShortcut 打开任何基于URL的链接,例如URL Scheme、shadowrocket://open、http、https! 任何问题请反馈到(你可以反馈但是我不一定会给你解决😂):https://github.com/dixtdf/dixtdf.github.io/issues
-Author: dixtdf
-Name: CCSupportShortcut
-
-Package: io.github.dixtdf.shortcut
-Version: 0.0.4
-Architecture: iphoneos-arm64
-Maintainer: dixtdf
-Installed-Size: 1432
-Depends: mobilesubstrate
-Filename: debs/io.github.dixtdf.shortcut_0.0.4_iphoneos-arm64.deb
-Size: 70254
-MD5sum: 0d9d8513ca7ec9ef6b94402d6c916522
-SHA1: 7354c430ee124a3db7298a4a4129c74c50defbf4
-SHA256: 0e1eb92fe704deec29147125b57adc6e937f9726b93a72a130c4a875269dcad6
+Filename: debs/io.github.dixtdf.shortcut_0.0.6_iphoneos-arm64.deb
+Size: 70742
+MD5sum: e9a3cbabae7d656eb251c863e56aa99a
+SHA1: 6a21ba5daf1828129f4b08b010939c6a31424f61
+SHA256: 0526900d4b239e9a979114ca6c145f87b027732ca826a1dba2deca8082e3adf2
 Section: Control Center (Modules)
 Description: CCSupportShortcut 打开任何基于URL的链接,例如shortcuts://run-shortcut?name=运行、shadowrocket://open、http、https! 任何问题请反馈到(你可以反馈但是我不一定会给你解决😂):https://github.com/dixtdf/dixtdf.github.io/issues
 Author: dixtdf
