@@ -47,16 +47,16 @@ Author: dixtdf
 Name: Safari Auto Close
 
 Package: io.github.dixtdf.shortcut
-Version: 0.0.8
+Version: 0.0.9
 Architecture: iphoneos-arm64
 Maintainer: dixtdf
 Installed-Size: 1476
 Depends: mobilesubstrate
-Filename: debs/io.github.dixtdf.shortcut_0.0.8_iphoneos-arm64.deb
-Size: 74478
-MD5sum: 4866695649812a42aafde85596a11b72
-SHA1: 1c61ada31b9025816f0383be1d40cc440949489b
-SHA256: c99955ea83c1802f5efb1bd80e2fba45290ce664b573cb6f25250f5917518f83
+Filename: debs/io.github.dixtdf.shortcut_0.0.9_iphoneos-arm64.deb
+Size: 74556
+MD5sum: 95b47c82e60eae548b77e4d25dd34ddd
+SHA1: 59d6ebdf53e7d2cf0c6eae7545fa8a0b30077db2
+SHA256: a6622fec3b03bf8431a25dd2e171f9fa4ef09305e9ca98ad6d00efde2e33fd64
 Section: Control Center (Modules)
 Description: CCSupportShortcut 打开任何基于URL的链接,例如shortcuts://run-shortcut?name=运行、shadowrocket://open、http、https! 任何问题请反馈到(你可以反馈但是我不一定会给你解决😂):https://github.com/dixtdf/dixtdf.github.io/issues
 Author: dixtdf
