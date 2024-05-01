@@ -14,6 +14,22 @@ Description: CCSupportShortcut 打开任何基于URL的链接,例如shortcuts://
 Author: dixtdf
 Name: CCSupportShortcut
 
+Package: io.github.dixtdf.frpc
+Version: 0.57.0.1
+Architecture: iphoneos-arm64
+Maintainer: dixtdf
+Installed-Size: 13132
+Depends: mobilesubstrate
+Filename: debs/io.github.dixtdf.frpc_0.57.0.1_iphoneos-arm64.deb
+Size: 3703146
+MD5sum: 18362b5d76826da83fe63c393d68954b
+SHA1: efe2e0068447ef2ecea72eb6c74fa246bb2919cb
+SHA256: 2aef729c40195991c982dda126ce634faa125c4a75ba0a43dbfce3bd6aac5e69
+Section: Tweaks
+Description: frpc帮助你简单启动frpc!安装后请尽快修改frpc.ini因为默认给出的frpc.ini是空白的它会一直尝试重启!当前版本使用方法:修改/var/jb/var/mobile/frpc/frpc.ini后注销设备,frpc.ini配置文档:https://gofrp.org/zh-cn/,未来可能会加入图形配置,任何问题请反馈到(你可以反馈但是我不一定会给你解决😂):https://github.com/dixtdf/dixtdf.github.io/issues
+Author: dixtdf
+Name: frpc
+
 Package: io.github.dixtdf.netease.cloudmusic
 Version: 0.0.1
 Architecture: iphoneos-arm64
