@@ -47,18 +47,18 @@ Author: dixtdf
 Name: NeteaseCloudMusicAutoPlay
 
 Package: io.github.dixtdf.safari.auto.close
-Version: 0.0.2
+Version: 1.0.0
 Architecture: iphoneos-arm64
 Maintainer: dixtdf
-Installed-Size: 368
-Depends: firmware (>= 16.0)
-Filename: debs/io.github.dixtdf.safari.auto.close_0.0.2_iphoneos-arm64.deb
-Size: 15822
-MD5sum: bc809bac8d1be4f2c787b1b1a9ab3f76
-SHA1: bc11b12de399b0667292c601d066295c2041ab96
-SHA256: cbd98f2f235deb33647553ec7de080aec2c815cd4ae35570f40e345894c43420
+Installed-Size: 372
+Depends: firmware (>= 15.0)
+Filename: debs/io.github.dixtdf.safari.auto.close_1.0.0_iphoneos-arm64.deb
+Size: 16522
+MD5sum: e1b3494e1fd25685328d9cb9da81e088
+SHA1: 839213363836d44e5ef0e30b5d270bcac2611cb4
+SHA256: 104a02d8f4f283c0bf5e59b0948683c027c112b5b6118335845c728aa7a5370d
 Section: Tweaks
-Description: Safari Auto Close! 任何问题请反馈到(你可以反馈但是我不一定会给你解决😂):https://github.com/dixtdf/dixtdf.github.io/issues
+Description: SafariAutoClose!个人自用,不喜勿装,任何问题请反馈到(你可以反馈但是我不一定会给你解决😂):https://github.com/dixtdf/dixtdf.github.io/issues
 Author: dixtdf
 Name: Safari Auto Close
 
