@@ -1,14 +1,14 @@
 Package: io.github.dixtdf.ccsupportshortcut
-Version: 1.0.2
+Version: 1.0.5
 Architecture: iphoneos-arm64
 Maintainer: dixtdf
 Installed-Size: 1416
 Depends: mobilesubstrate
-Filename: debs/io.github.dixtdf.ccsupportshortcut_1.0.2_iphoneos-arm64.deb
-Size: 79340
-MD5sum: ab915c55291b1f403abb8735f1e8f39e
-SHA1: a2f6308ae1fbb77687b0170df2d86d7d938eb5e7
-SHA256: 3f987dc754059efbd0c593a80ff7b9f52f3bfb1633ba45b7b31cd273b1ac3b34
+Filename: debs/io.github.dixtdf.ccsupportshortcut_1.0.5_iphoneos-arm64.deb
+Size: 78394
+MD5sum: d737f917c509f9cad3b23b5ce74c2701
+SHA1: f8f9bffb899eb17ae569aa554c474e9d78dfcef9
+SHA256: 659ace06119d1dfcb7d4a454762a7147f12c2f82087cbe5377339cd319276c21
 Section: Tweaks
 Description: CCSupportShortcut 打开任何基于URL的链接,例如shortcuts://run-shortcut?name=运行、shadowrocket://open、http、https! 任何问题请反馈到(你可以反馈但是我不一定会给你解决😂):https://github.com/dixtdf/dixtdf.github.io/issues
 Author: dixtdf
